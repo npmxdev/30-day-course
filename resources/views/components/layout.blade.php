@@ -2,7 +2,7 @@
     <title>Laravel</title>
 <script src="https://unpkg.com/@tailwindcss/browser@4"></script>
 </head>
-<div class="min-h-full bg-gray-50">
+<div class="min-h-full selection:bg-purple-600 selection:text-white bg-gray-50">
   <nav class="bg-gray-800">
     <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
       <div class="flex h-16 items-center justify-between">
